@@ -2,7 +2,7 @@
 
 A lightweight, hardware-accelerated DVD bouncing logo screensaver built with modern HTML5, CSS3, and vanilla JavaScript.
 
-🔗 **[Live Demo](https://your-username.github.io/dvd-screensaver/)**
+🔗 **[Live Demo](https://youssefsallem.github.io/dvd-screensaver/)**
 
 ---
 
